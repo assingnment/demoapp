@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "pooja",
+      "lastname": "kumavat",
+      "birthdate": "2023-04-19",
+      "gender": "f",
+      "education": "india",
+      "company": "nashik",
+      "jobExperience": "pooja@gmail.com",
+      "salary": "15425845845",
+      "profile": "pooja.jpeg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
